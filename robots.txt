@@ -1,2 +1,2 @@
 User-agent: *
-Allow:/
+Allow:/ Sitemap: https://yu-rim-lee.github.io/sitemap.xml
